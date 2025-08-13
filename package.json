@@ -17,8 +17,8 @@
     "react-router": "latest"
   },
   "devDependencies": {
-    "@biomejs/biome": "latest",
     "@vitejs/plugin-react": "latest",
-    "vite": "latest"
+    "vite": "latest",
+    "vite-plugin-svgr": "latest"
   }
 }
