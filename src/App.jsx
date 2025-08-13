@@ -1,8 +1,8 @@
-import Container from '@mui/material/Container';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import ProTip from './ProTip';
-import Copyright from './Copyright';
+import Box from "@mui/material/Box";
+import Container from "@mui/material/Container";
+import Typography from "@mui/material/Typography";
+import Copyright from "./Copyright";
+import ProTip from "./ProTip";
 
 export default function App() {
   return (

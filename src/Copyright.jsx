@@ -1,5 +1,5 @@
-import Typography from '@mui/material/Typography';
-import Link from '@mui/material/Link';
+import Link from "@mui/material/Link";
+import Typography from "@mui/material/Typography";
 
 export default function Copyright() {
   return (
@@ -7,13 +7,13 @@ export default function Copyright() {
       variant="body2"
       align="center"
       sx={{
-        color: 'text.secondary',
+        color: "text.secondary",
       }}
     >
-      {'Copyright © '}
+      {"Copyright © "}
       <Link color="inherit" href="https://mui.com/">
         Your Website
-      </Link>{' '}
+      </Link>{" "}
       {new Date().getFullYear()}.
     </Typography>
   );

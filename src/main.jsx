@@ -1,10 +1,9 @@
-import * as React from "react";
-import { createRoot } from "react-dom/client";
 import CssBaseline from "@mui/material/CssBaseline";
 import { ThemeProvider } from "@mui/material/styles";
-import theme from "./theme";
+import { createRoot } from "react-dom/client";
 import { RouterProvider } from "react-router";
 import router from "./Router";
+import theme from "./theme";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
