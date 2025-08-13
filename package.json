@@ -13,7 +13,8 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router": "latest"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "latest",
