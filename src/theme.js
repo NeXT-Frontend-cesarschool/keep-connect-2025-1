@@ -18,6 +18,7 @@ const theme = createTheme({
     },
   },
   typography: {
+    fontFamily: '"Sora", "Roboto", "Helvetica", "Arial", sans-serif',
     allVariants: {
       textTransform: 'none'
     }

@@ -10,6 +10,7 @@
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
+    "@fontsource/sora": "^5.2.6",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "react": "latest",

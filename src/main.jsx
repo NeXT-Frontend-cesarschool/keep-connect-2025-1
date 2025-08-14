@@ -6,6 +6,13 @@ import { RouterProvider } from "react-router";
 import router from "./Router";
 import theme from "./theme";
 
+// Import Sora font
+import "@fontsource/sora/300.css";
+import "@fontsource/sora/400.css";
+import "@fontsource/sora/500.css";
+import "@fontsource/sora/600.css";
+import "@fontsource/sora/700.css";
+
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
