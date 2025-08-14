@@ -1,10 +1,15 @@
 import { createBrowserRouter } from "react-router";
-import App from "./App";
+import Home from "./Home";
+import FormPage from "./FormPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />,
+    element: <Home />,
+  },
+  {
+    path: "/form",
+    element: <FormPage />,
   },
 ]);
 
